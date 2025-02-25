@@ -5,6 +5,12 @@
     <img src="https://skillicons.dev/icons?i=git,github,kotlin,html,css,mysql" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode" />
+  </a>
+</p>
 <!--
 **luciafuertes/luciafuertes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
